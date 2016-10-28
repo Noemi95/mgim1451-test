@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 bca
 aaaaa
+=======
+bcabbbbbbbb
+
+>>>>>>> branch1
